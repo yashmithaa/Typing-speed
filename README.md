@@ -3,17 +3,17 @@
  Tkinter is used as GUI and .csv for database.
  
 ## Objective
- This project is mainly built to implement the concepts learnt in grade 11 and 12 (CBSE : Python programming language)
+ This project is mainly aimed to implement the concepts learnt in grade 11 and 12 (CBSE : Python programming language)
  
  # Features
  - Users can create accounts
  - Updates new Highscore
  - Highscore depends on WPM (Word per minute) and Accuracy
- - Users can view their profile
+ - Users can view their Profile
  - Leaderboard that ranks top 5 users
  - Simple cool UI
 
-# User Interface
+# The User Interface
 ## Main menu
 ![mainpage](https://lh6.googleusercontent.com/f0TCDCqzmz2CPtXbXqtn6AezBe2TIoN05DPOf82AQDLVwfl3p9s6-O0vgAjvPaP0uaf8Vfp4beZ_8vrzqfMNBIOXulm00GE_KqAeG6ji9ZdAuWuTVzRjAwreOzMBi9r1ktLMuoLMivJfJN2RjUEpi7UY_Qtnd7SSGiAjmiigU_9vaBxoXXaAorn_c2W2Db7i85HwQA4)
 ## Sign-up
