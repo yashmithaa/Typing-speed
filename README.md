@@ -1,5 +1,5 @@
 # Typing-speed-tester
- Basically you can cheack your typing speed with this test. Create a profile, save your progress and highscores. 
+ Basically check your typing speed with this test. Create a profile, save your progress and highscores. 
  Tkinter is used as GUI and .csv for database.
  
 ## Objective
