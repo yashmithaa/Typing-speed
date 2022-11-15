@@ -1,3 +1,4 @@
+#bubble sort is used for the leaderboard :)
 data=[['a',33,100],['b',39,99],['c',39,100],['d',22,100]]
 n = len(data)
 for i in range(n):
