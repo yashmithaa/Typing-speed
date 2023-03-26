@@ -2,7 +2,7 @@
  This application enables you to test your typing speed by taking a typing test, creating a profile, and saving your progress and high scores. The Graphical User Interface (GUI) is developed using Tkinter, and the database is managed using .csv files.
  
 ## Objective
- The primary objective of this project is to apply the programming concepts that were taught in grade 11 and 12 of the CBSE Python programming language curriculum.
+ The primary objective of this project is to apply the programming concepts that were taught in grade 11 and 12 of the CBSE Python programming language curriculum 2021-22.
  
  # Features
  The application boasts several key features, including the ability for users to create their own accounts and update their high scores based on their typing speed (measured in WPM) and accuracy. Users can also view their own profiles, while a leaderboard showcases the top five users in the system. The application's user interface is designed to be both simple and visually appealing.
