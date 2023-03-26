@@ -1,17 +1,11 @@
 # Typing-speed-tester
- Basically check your typing speed with this test. Create a profile, save your progress and highscores. 
- Tkinter is used as GUI and .csv for database.
+ This application enables you to test your typing speed by taking a typing test, creating a profile, and saving your progress and high scores. The Graphical User Interface (GUI) is developed using Tkinter, and the database is managed using .csv files.
  
 ## Objective
- This project is mainly aimed to implement the concepts learnt in grade 11 and 12 (CBSE : Python programming language)
+ The primary objective of this project is to apply the programming concepts that were taught in grade 11 and 12 of the CBSE Python programming language curriculum.
  
  # Features
- - Users can create accounts
- - Updates new Highscore
- - Highscore depends on WPM (Word per minute) and Accuracy
- - Users can view their Profile
- - Leaderboard that ranks top 5 users
- - Simple cool UI
+ The application boasts several key features, including the ability for users to create their own accounts and update their high scores based on their typing speed (measured in WPM) and accuracy. Users can also view their own profiles, while a leaderboard showcases the top five users in the system. The application's user interface is designed to be both simple and visually appealing.
 
 # The User Interface
 ## Main menu
